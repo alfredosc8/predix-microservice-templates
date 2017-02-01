@@ -1,10 +1,10 @@
 [submodule "predix-microservice-cf-spring"]
 	path = predix-microservice-cf-spring
-	url = git@github.build.ge.com:adoption/predix-microservice-cf-spring.git
+	url = https://github.com/predixdev/predix-microservice-cf-spring.git
 	branch = develop
 [submodule "predix-microservice-cf-jsr"]
 	path = predix-microservice-cf-jsr
-	url = git@github.build.ge.com:adoption/predix-microservice-cf-jsr.git
+	url = https://github.com/predixdev/predix-microservice-cf-jsr.git
 	branch = develop
 
 
